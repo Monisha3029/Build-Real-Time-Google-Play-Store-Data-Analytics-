@@ -20,7 +20,8 @@ It merges app metadata with user review sentiment data to provide insights throu
 - **Language:** Python  
 - **IDE:** Visual Studio Code / Jupyter Notebook  
 
-### 📚 Libraries Used
+
+## 📚 Libraries Used
 
 - `pandas`  
 - `plotly`  
@@ -77,7 +78,6 @@ It merges app metadata with user review sentiment data to provide insights throu
 - **🕒 Visibility Time Window:** Only visible between **5 PM and 7 PM IST**
 
 ---
-
 
 ## **▶️ How to Run:**
 
